@@ -1,0 +1,4 @@
+Some [[file:HOCKING-makefiles.pdf][slides]] that explain how to use a Makefile to organize a
+computational research project.
+
+Related work: [[http://kbroman.org/minimal_make/][Karl Broman's "minimal make"]]
